@@ -1,0 +1,9 @@
+<application>
+<display-name>livraria</display-name>
+ <module>
+   <ejb>livraria-ejb3.jar</ejb>
+ </module>
+ <module>
+   <java>livraria-base.jar</java>	
+ </module>
+</application>
